@@ -1,0 +1,5 @@
+num1 = int(input("Ingresa el primer número entero: "))
+num2 = int(input("Ingresa el segundo número entero: "))
+print("La suma es:", num1 + num2)
+print("La multiplicación es:", num1 * num2)
+print("El residuo de la división es:", num1 % num2)
